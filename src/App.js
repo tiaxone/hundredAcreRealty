@@ -9,7 +9,7 @@ function App() {
       <body>
         <section class="main">
           <div class="coming_soon">
-            <h3>Coming 2021</h3>
+            <h3>Coming December 2021</h3>
             <img src={logo} alt="Hundred Acre Realty" width="400" height="400"/>
             <p>A company dedicated to building value one acre at a time.</p>
           </div>
